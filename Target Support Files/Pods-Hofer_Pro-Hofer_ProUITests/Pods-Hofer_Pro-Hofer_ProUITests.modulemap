@@ -1,0 +1,6 @@
+framework module Pods_Hofer_Pro_Hofer_ProUITests {
+  umbrella header "Pods-Hofer_Pro-Hofer_ProUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
